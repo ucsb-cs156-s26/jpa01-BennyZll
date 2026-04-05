@@ -1,4 +1,4 @@
-# STARTER-jpa01
+# jpa01-BennyZll
 
 * TODO: Change the title of this README (above)
   in the text `# STARTER-jpa01` above
