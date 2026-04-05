@@ -1,10 +1,5 @@
 # jpa01-BennyZll
 
-* TODO: Change the title of this README (above)
-  in the text `# STARTER-jpa01` above
-  to match the name of your repo, i. e., `jpa01-yourgithubid`, then delete
-  this TODO item.
-
 Deployed at: http://jpa01-bennyzll.dokku-14.cs.ucsb.edu
 
 # About this repo
